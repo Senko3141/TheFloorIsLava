@@ -1,0 +1,12 @@
+-- Game Values
+
+return {
+    REQUIRED_PLAYERS = 2,
+
+    WINNER_COUNTDOWN = 5,
+    END_COUNTDOWN = 5,
+
+    INTERMISSION_COUNTDOWN = 5,
+    GAME_START_COUNTDOWN = 5,
+    ROUND_TIMER = 30,
+}
